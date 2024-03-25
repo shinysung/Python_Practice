@@ -1,2 +1,2 @@
-# python_basic
+# Python_Practice
 To practice Python on a basic level
