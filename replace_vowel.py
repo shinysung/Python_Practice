@@ -3,7 +3,6 @@
 
 def replace_exclamation(st):
     vowel = ["A", "E", "I", "O", "U", "a", "e", "i", "o", "u"]
-    list_st = []
 
     for i in str(st):
         if i in vowel:
