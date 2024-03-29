@@ -7,6 +7,8 @@ def sum_array(arr):
 
     return sum(arr) - max(arr) - min(arr)
 
+# Test code
+
 print(sum_array([6, 2, 1, 8, 10]))
 
 
